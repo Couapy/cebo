@@ -1,0 +1,31 @@
+{
+  "name": "cebo",
+  "version": "0.0.0",
+  "description": "Terminal spinners",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Couapy/cebo.git"
+  },
+  "keywords": [
+    "terminal",
+    "loader",
+    "spinner",
+    "awesome",
+    "cli-spinners"
+  ],
+  "author": "Couapy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Couapy/cebo/issues"
+  },
+  "homepage": "https://github.com/Couapy/cebo#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
